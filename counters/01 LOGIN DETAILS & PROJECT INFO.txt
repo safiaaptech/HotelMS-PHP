@@ -1,0 +1,9 @@
+**Database Name: hotelms**
+
+**Developed by ROOMAN,BARIRA BABAR,SAMEEN,FATIMA SIDDIQUI**
+
+
+
+**Login Details*
+username: STUDENT
+password: student
